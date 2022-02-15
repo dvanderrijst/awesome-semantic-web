@@ -200,7 +200,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 ## Companies
 Companies or businesses selling products with a primary focus on semantic web technology
 
-- [SeMI Technologies](https://semi.technology/) - Weaviate Search Graph.
+- [SeMI Technologies](https://weaviate.io/) - Weaviate Search Graph.
 - [Stardog Union](http://stardog.com) - Knowledge Graph Platform for the Enterprise.
 - [Epimorphics](https://www.epimorphics.com/)
 - [Franz](http://franz.com)
@@ -323,7 +323,7 @@ $ - Proprietary
 OS - OpenSource  
 F - Free 
 
-- [Weaviate](https://www.semi.technology/documentation/weaviate/current/) - (OS/$) Weaviate Search Graph, search engine with build-in vectorization models.
+- [Weaviate](https://weaviate.io/developers/weaviate/current/) - (OS/$) Weaviate Search Graph, search engine with build-in vectorization models.
 
 ### Academic
 (Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
@@ -443,7 +443,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ## GraphQL
 
-- [Weaviate Search Graph](https://www.semi.technology/documentation/weaviate/current/) - GraphQL based search engine ([more info about GraphQL-design](https://hackernoon.com/how-weaviates-graphql-api-was-designed-t93932tl))
+- [Weaviate Search Graph](https://weaviate.io/developers/weaviate/current/) - GraphQL based search engine ([more info about GraphQL-design](https://hackernoon.com/how-weaviates-graphql-api-was-designed-t93932tl))
 - [semantic-graphql](https://github.com/nelson-ai/semantic-graphql) - Create GraphQL schemas from RDF ontologies.
 - [hypergraphql](https://github.com/semantic-integration/hypergraphql) - GraphQL interface for querying and serving linked data on the Web.
 
@@ -682,7 +682,7 @@ OS - OpenSource
 
 ## Reasoners
 
-- [Weaviate's Contextionary](https://www.semi.technology/documentation/weaviate/current/about/philosophy.html#about-the-contextionary)
+- [Weaviate's Contextionary](https://weaviate.io/developers/weaviate/current/modules/text2vec-contextionary.html)
 - [Pellet](https://github.com/stardog-union/pellet)
 - [openllet](https://github.com/Galigator/openllet)
 - [FaCT++](https://github.com/ethz-asl/libfactplusplus)
